@@ -1,0 +1,5 @@
+written this using python file handling
+appended this text
+appended another text
+if we open file in write mode and again 
+    write it will overwrite the text
